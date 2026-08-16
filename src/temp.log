@@ -1,0 +1,9 @@
+2026-07-18 09:02:48 INFO User john logged in successfully
+2026-07-18 09:03:12 WARNING Failed login attempt for user admin from 192.168.1.25
+2026-07-18 09:03:40 WARNING Failed login attempt for user admin from 192.168.1.25
+2026-07-18 09:03:55 WARNING Failed login attempt for user admin from 192.168.1.25
+2026-07-18 09:04:01 ERROR Account admin locked after multiple failed login attempts
+2026-07-18 09:05:20 CRITICAL Malware detected: Trojan.Win32
+2026-07-18 09:06:30 ALERT Port scanning detected from 10.10.10.15
+2026-07-18 09:07:10 WARNING Privilege escalation attempt detected for user guest
+2026-07-18 09:08:05 INFO User bob logged out

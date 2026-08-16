@@ -1,0 +1,12 @@
+2026-08-16 14:20:01 INFO User alice logged in successfully from 10.10.10.99
+2026-08-16 14:20:15 WARNING Failed login attempt for user admin from 185.220.101.45
+2026-08-16 14:20:17 WARNING Failed login attempt for user admin from 185.220.101.45
+2026-08-16 14:20:19 WARNING Failed login attempt for user admin from 185.220.101.45
+2026-08-16 14:20:21 WARNING Failed login attempt for user admin from 185.220.101.45
+2026-08-16 14:20:23 WARNING Failed login attempt for user admin from 185.220.101.45
+2026-08-16 14:20:25 ALERT Possible brute force attack detected for user admin from 185.220.101.45
+2026-08-16 14:21:03 INFO User alice logged in successfully from 10.10.10.99
+2026-08-16 14:22:10 WARNING Failed login attempt for user root from 185.220.101.45
+2026-08-16 14:22:12 WARNING Failed login attempt for user root from 185.220.101.45
+2026-08-16 14:22:14 WARNING Failed login attempt for user root from 185.220.101.45
+2026-08-16 14:22:16 ALERT Multiple authentication failures detected for user root

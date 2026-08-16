@@ -1,0 +1,6 @@
+2026-08-16 15:10:01 INFO User alice logged in successfully from 10.10.10.99
+2026-08-16 15:12:14 INFO User alice accessed internal dashboard from 10.10.10.99
+2026-08-16 15:15:30 INFO User alice logged out successfully from 10.10.10.99
+2026-08-16 15:20:05 INFO User bob logged in successfully from 10.10.10.50
+2026-08-16 15:22:18 INFO User bob accessed internal application from 10.10.10.50
+2026-08-16 15:25:42 INFO User bob logged out successfully from 10.10.10.50
